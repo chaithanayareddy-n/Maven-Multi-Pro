@@ -42,7 +42,7 @@
    </dependencies> 
   
   
-  <distributionManagement>
+ <!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
@@ -54,7 +54,7 @@
 	      <url>http://localhost:8081/repository/Jenkins-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
-	
+-->	
 	
   <profiles>
     <profile>
