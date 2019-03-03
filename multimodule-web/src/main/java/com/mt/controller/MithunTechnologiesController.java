@@ -20,7 +20,7 @@ public class MithunTechnologiesController {
 			throws JSONException {
 		System.out.println(":::Method calling:::");
 		JSONObject js = new JSONObject();
-		js.put("Name", "Chai Reddy L");
+		js.put("Name", "Chait Reddy L");
 		js.put("Technology", "DevOps  ");
 
 		return js.toString();
