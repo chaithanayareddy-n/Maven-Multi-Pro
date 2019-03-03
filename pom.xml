@@ -29,7 +29,8 @@
 	<sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
 </properties>
 
-<--<dependencies>
+<!--
+    <dependencies>
 
 
 	<dependency>
@@ -39,7 +40,8 @@
       <scope>test</scope>
     </dependency>
     
-   </dependencies> -->
+   </dependencies>
+-->
   
   
  <!-- <distributionManagement>
